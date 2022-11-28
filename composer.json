@@ -1,4 +1,5 @@
 {
+    "name": "drlenux/micro-visor",
     "type": "project",
     "license": "MIT",
     "autoload": {
